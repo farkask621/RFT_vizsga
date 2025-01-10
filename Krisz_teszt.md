@@ -1,7 +1,7 @@
 ### Krisz teszt: Nehézségi szint kiválasztása
 **Tesztelő:** Farkas Krisztián
 
-**Tesztelés dátuma:** 2023.12. 18.
+**Tesztelés dátuma:** 2024.12. 18.
 
 | Teszteset azonosító | Teszteset | Elvárt eredmény | Tényleges eredmény | Megjegyzés |
 | ------------------- | --------- | --------------- | ------------------ | ---------- |
