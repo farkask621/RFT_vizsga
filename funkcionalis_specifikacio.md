@@ -7,3 +7,5 @@ Egy olyan játékos alkalmazás létrehozása, amely lehetővé teszi a magyar-a
 A felhasználó kiválaszt egy nehézségi szintet ("könnyű", "közepes" vagy "nehéz").
 A program generál 7 véletlenszerű magyar-angol szópárt. A felhasználó az angol szavakat párosítja a magyar megfelelőikkel.
 Az alkalmazás kiértékeli a válaszokat és megjeleníti az eredményeket.
+## 4. Igényelt üzleti folyamatok modellje
+Szópárok véletlenszerű generálása: A program a választott nehézségi szint alapján véletlenszerűen kiválasztja a szópárokat.
