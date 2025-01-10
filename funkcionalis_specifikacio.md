@@ -26,3 +26,8 @@ Rendszer:
 Generálja a megfelelő szópárokat a választott szint alapján.
 Véletlenszerűen megkeveri az angol válaszlehetőségeket.
 Kiértékeli a felhasználó válaszait.
+
+## 7. Forgatókönyvek
+Nehézségi szint kiválasztása:
+A felhasználó három opció közül választhat: "könnyű", "közepes", "nehéz".
+Játék kezdete:
