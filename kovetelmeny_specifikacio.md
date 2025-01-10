@@ -29,4 +29,10 @@ Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, am
 	 5.2. Párosítási Feladat
    	 Felelős: Felhasználók.
    	 Folyamat: A felhasználók lenyíló menükből kiválasztják az angol szavakat, amelyeket a magyar szavakhoz társítanak.
+5.3. Eredmények Kiértékelése
+   	 Felelős: Az alkalmazás.
+   	 Folyamat: Az alkalmazás összeveti a felhasználó válaszait a helyes megoldásokkal, és megjeleníti az eredményeket (helyes és 	 	 helytelen válaszok száma).
+	 5.4. Motivációs Üzenetek
+   	 Felelős: Az alkalmazás.
+   	 Folyamat: Az alkalmazás teljesítményalapú visszacsatolást nyújt, például gratuláló vagy bátorító üzenetekkel.
 
