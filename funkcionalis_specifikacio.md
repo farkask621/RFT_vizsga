@@ -8,4 +8,4 @@ A felhasználó kiválaszt egy nehézségi szintet ("könnyű", "közepes" vagy 
 A program generál 7 véletlenszerű magyar-angol szópárt. A felhasználó az angol szavakat párosítja a magyar megfelelőikkel.
 Az alkalmazás kiértékeli a válaszokat és megjeleníti az eredményeket.
 ## 4. Igényelt üzleti folyamatok modellje
-Szópárok véletlenszerű generálása: A program a választott nehézségi szint alapján véletlenszerűen kiválasztja a szópárokat. Párosítási játék: A felhasználó lenyíló menüből választja ki az angol szavakat, amelyeket a magyar megfelelőkkel kell párosítania.
+Szópárok véletlenszerű generálása: A program a választott nehézségi szint alapján véletlenszerűen kiválasztja a szópárokat. Párosítási játék: A felhasználó lenyíló menüből választja ki az angol szavakat, amelyeket a magyar megfelelőkkel kell párosítania. Eredmények visszajelzése: A játék végén az alkalmazás megjeleníti a helyes és helytelen válaszok számát, valamint motivációs üzenetet ad.
