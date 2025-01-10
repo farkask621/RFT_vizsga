@@ -4,3 +4,6 @@ A rendszer célja egy modern, felhasználóbarát platform biztosítása, amely 
 
 ## 2. Projektterv
 A projekt során Scrum keretrendszerben dolgozunk. A Scrum master koordinálja a csapat munkáját, míg a Product Owner biztosítja a felhasználói igények megfelelő érvényesítését. A fejlesztők frontend, backend, és tesztelési feladatokat végeznek. Az ütemterv szerint az első szakaszban elkészülnek a specifikációk és a prototípus, majd következik az alapfunkciók fejlesztése, végül a tesztelés. A projekt három mérföldköve: a tervezési dokumentációk átadása, a prototípus bemutatása, majd a kész rendszer leszállítása.
+
+## 3. Üzleti folyamatok modellje
+A rendszer két fő szerepkörrel dolgozik: admin és felhasználó. Az adminok kezelhetik a híreket és a felhasználókat, míg a felhasználók hozzáférhetnek a hírekhez és kommentelhetnek. Az üzleti folyamatok biztosítják a hírek kategóriákba sorolását és azok kezelését.
