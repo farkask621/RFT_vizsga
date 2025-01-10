@@ -10,3 +10,6 @@ A rendszer két fő szerepkörrel dolgozik: admin és felhasználó. Az adminok 
 
 ## 4. Követelmények
 A rendszer funkcionális követelményei közé tartozik a regisztráció, bejelentkezés, kommentelés és a hírek CRUD műveletei. Nem funkcionális követelmény az átlátható, könnyen kezelhető felhasználói felület, valamint a reszponzív dizájn. A felület minden modern eszközről és böngészőről elérhető lesz. A rendszer szintén támogatja a különböző szerepkörök jogosultságainak kezelését.
+
+## 5. Funkcionális terv
+Az adminisztrátorok képesek hírek létrehozására, módosítására, törlésére, valamint felügyelik a felhasználók tevékenységét. A felhasználók böngészhetik a híreket, megtekinthetik a kategóriákat, és hozzászólhatnak.
