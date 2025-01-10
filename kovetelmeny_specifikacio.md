@@ -12,3 +12,9 @@ Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, am
 - Véletlenszerűen generált magyar-angol szópárok.
 - Az eredmények kiértékelése és motivációs üzenetek a teljesítmény alapján.
 - Egy egyszerű, intuitív játékélmény, amely minden korosztály számára élvezetes.
+
+## 4. Jelenlegi üzleti folyamatok modellje
+	 4.1. Szópárok Generálása
+   	 A felhasználó kiválasztja a kívánt nehézségi szintet.
+   	 Az alkalmazás véletlenszerűen kiválaszt 7 magyar-angol szópárt a szintnek megfelelő szókészletből.
+	 4.2. Párosítási Feladat
