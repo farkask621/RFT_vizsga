@@ -21,3 +21,6 @@ K5	Visszajelzés	Motivációs üzenet	Az alkalmazás visszajelzést ad a teljes�
 Felhasználó:
 Kiválasztja a nehézségi szintet.
 Részt vesz a párosítási játékban.
+Megkapja az eredményeket és motivációs üzenetet.
+Rendszer:
+Generálja a megfelelő szópárokat a választott szint alapján.
