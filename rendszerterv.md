@@ -15,4 +15,4 @@ A rendszer funkcionális követelményei közé tartozik a regisztráció, bejel
 Az adminisztrátorok képesek hírek létrehozására, módosítására, törlésére, valamint felügyelik a felhasználók tevékenységét. A felhasználók böngészhetik a híreket, megtekinthetik a kategóriákat, és hozzászólhatnak.A főmenü hierarchiája tartalmazza a bejelentkezési opciókat, a kezdőlapot, kategorizált híreket, és a felhasználói adatok kezelését.
 
 ## 6. Fizikai környezet
-A fejlesztéshez Visual Studio Code-ot használunk a forráskód írásához. A tesztelés során különböző operációs rendszereken (Windows, Linux, macOS) biztosítjuk a program kompatibilitását.
+A fejlesztéshez Visual Studio Code-ot használunk a forráskód írásához. A tesztelés során különböző operációs rendszereken (Windows, Linux, macOS) biztosítjuk a program kompatibilitását. A fejlesztés során Python programnyelvet használunk, és a Tkinter könyvtár segítségével valósítjuk meg a grafikus felületet.
