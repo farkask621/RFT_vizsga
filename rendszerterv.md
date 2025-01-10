@@ -19,3 +19,6 @@ A fejlesztéshez Visual Studio Code-ot használunk a forráskód írásához. A 
 
 ## 7. Implementációs terv
 A programot Python nyelven készítjük el, amely egy könnyen telepíthető és futtatható nyílt forráskódú környezetet biztosít. Az interfész létrehozásához a Tkinter könyvtárat használjuk. A telepítési lépésekhez biztosítjuk a szükséges könyvtárak (pl. random és tkinter) megfelelő dokumentációját. A forráskód strukturált és magyar nyelvű változóneveket használ az átláthatóság érdekében.
+
+## 8. Tesztterv
+A rendszer működésének validálásához számos tesztesetet hozunk létre. Tesztelni fogjuk például a szóösszepárosítás helyességét, a nehézségi szintek működését, valamint az interfész elemek elérhetőségét és funkcionalitását.
