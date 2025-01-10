@@ -41,3 +41,4 @@ Motivációs üzenet jelenik meg a teljesítmény alapján.
 Követelmény	Funkció
 K1	Szintválasztás
 K2	Szópárok véletlenszerű generálása
+K3	Felhasználói párosítás
