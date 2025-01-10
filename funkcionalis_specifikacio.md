@@ -16,3 +16,8 @@ K2	Generálás	Szópárok generálása	Az alkalmazás véletlenszerűen kiválas
 K3	Párosítás	Feladat végrehajtása	A felhasználó a magyar szavakat a megfelelő angol szavakkal párosítja.
 K4	Kiértékelés	Eredmények megjelenítése	Az alkalmazás kiértékeli a párosításokat, és megjeleníti az eredményeket.
 K5	Visszajelzés	Motivációs üzenet	Az alkalmazás visszajelzést ad a teljesítmény alapján (pl. dicséret, bátorítás).
+
+## 6. Használati esetek
+Felhasználó:
+Kiválasztja a nehézségi szintet.
+Részt vesz a párosítási játékban.
