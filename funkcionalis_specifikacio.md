@@ -24,3 +24,5 @@ Részt vesz a párosítási játékban.
 Megkapja az eredményeket és motivációs üzenetet.
 Rendszer:
 Generálja a megfelelő szópárokat a választott szint alapján.
+Véletlenszerűen megkeveri az angol válaszlehetőségeket.
+Kiértékeli a felhasználó válaszait.
