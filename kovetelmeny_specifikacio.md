@@ -4,3 +4,8 @@ A nyelvtanulók számára egyre fontosabb, hogy a tanulási folyamatot interakt�
 
 ## 2. A jelenlegi helyzet leírása
 Jelenleg kevés olyan játékos alkalmazás létezik, amely magyar-angol szópárok párosításán alapul, és különböző nehézségi szinteken teszi lehetővé a gyakorlást. A létező megoldások többsége vagy túl komplex, vagy nem ad elegendő visszacsatolást a felhasználók teljesítményéről. Ezen kívül a motivációs elemek is hiányoznak, amelyek segítenék a tanulók fejlődését. 
+
+## 3. Vágyálomrendszer
+Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, amely támogatja a nyelvtanulást az alábbi funkciókkal:
+- Könnyen érthető és reszponzív kezelőfelület.
+- Különböző nehézségi szintek: "könnyű", "közepes" és "nehéz".
