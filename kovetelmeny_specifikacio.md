@@ -35,4 +35,6 @@ Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, am
 	 5.4. Motivációs Üzenetek
    	 Felelős: Az alkalmazás.
    	 Folyamat: Az alkalmazás teljesítményalapú visszacsatolást nyújt, például gratuláló vagy bátorító üzenetekkel.
-
+5.5. Felhasználói Élmény
+   	 Felelős: Az alkalmazás.
+   	 Folyamat: A felület reszponzív kialakítása biztosítja, hogy a játék élvezetes legyen különböző eszközökön (mobil, tablet, PC).
