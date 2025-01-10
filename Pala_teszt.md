@@ -1,7 +1,7 @@
 ### Pala teszt: Párosítások ellenőrzése
 **Tesztelő:** Pala Albert József
 
-**Tesztelés dátuma:** 2023.12.21.
+**Tesztelés dátuma:** 2024.12.21.
 
 | Teszteset azonosító | Teszteset | Elvárt eredmény | Tényleges eredmény | Megjegyzés |
 | ------------------- | --------- | --------------- | ------------------ | ---------- |
