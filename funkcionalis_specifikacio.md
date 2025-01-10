@@ -34,3 +34,5 @@ Játék kezdete:
 A játékablak megjeleníti a magyar szavakat és az angol opciókat.
 A felhasználó a lenyíló menük segítségével párosítja a szavakat.
 Eredmények megjelenítése:
+Az alkalmazás kiszámítja a helyes válaszok számát, és megjeleníti a végső eredményt.
+Motivációs üzenet jelenik meg a teljesítmény alapján.
