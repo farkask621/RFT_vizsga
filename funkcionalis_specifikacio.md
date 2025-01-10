@@ -36,3 +36,8 @@ A felhasználó a lenyíló menük segítségével párosítja a szavakat.
 Eredmények megjelenítése:
 Az alkalmazás kiszámítja a helyes válaszok számát, és megjeleníti a végső eredményt.
 Motivációs üzenet jelenik meg a teljesítmény alapján.
+
+## 8. Funkció - követelmény megfeleltetése
+Követelmény	Funkció
+K1	Szintválasztás
+K2	Szópárok véletlenszerű generálása
