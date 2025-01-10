@@ -22,3 +22,6 @@ A programot Python nyelven készítjük el, amely egy könnyen telepíthető és
 
 ## 8. Tesztterv
 A rendszer működésének validálásához számos tesztesetet hozunk létre. Tesztelni fogjuk például a szóösszepárosítás helyességét, a nehézségi szintek működését, valamint az interfész elemek elérhetőségét és funkcionalitását.  A csapattagok teszteredményeit egy központi dokumentumban gyűjtjük össze, amelyet a vezetőség számára is elérhetővé teszünk.
+
+## 9. Telepítési terv
+A program telepítése egyszerű lépésekben történik. Elsőként telepíteni kell a Python 3-as verzióját, amely letölthető a hivatalos weboldalról. Ezután a forráskódot le kell tölteni a projekt mappájába.
