@@ -31,3 +31,6 @@ Kiértékeli a felhasználó válaszait.
 Nehézségi szint kiválasztása:
 A felhasználó három opció közül választhat: "könnyű", "közepes", "nehéz".
 Játék kezdete:
+A játékablak megjeleníti a magyar szavakat és az angol opciókat.
+A felhasználó a lenyíló menük segítségével párosítja a szavakat.
+Eredmények megjelenítése:
