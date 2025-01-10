@@ -1,0 +1,3 @@
+# Rendszerterv
+## 1. A rendszer célja
+A rendszer célja egy modern, felhasználóbarát platform biztosítása, amely lehetővé teszi a hírek gyors és pontos elérését bármilyen eszközről és böngészőről. A hírek típusok szerint csoportosítva érhetők el, biztosítva a könnyű kereshetőséget. Az adminisztrátorok képesek híreket hozzáadni, módosítani és törölni, míg a felhasználók regisztráció és bejelentkezés után kommenteket fűzhetnek a hírekhez. A cél egy dinamikus, reszponzív webalkalmazás létrehozása, amely megfelel a modern webes elvárásoknak.
