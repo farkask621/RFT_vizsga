@@ -9,4 +9,4 @@ A projekt során Scrum keretrendszerben dolgozunk. A Scrum master koordinálja a
 A rendszer két fő szerepkörrel dolgozik: admin és felhasználó. Az adminok kezelhetik a híreket és a felhasználókat, míg a felhasználók hozzáférhetnek a hírekhez és kommentelhetnek. Az üzleti folyamatok biztosítják a hírek kategóriákba sorolását és azok kezelését.
 
 ## 4. Követelmények
-A rendszer funkcionális követelményei közé tartozik a regisztráció, bejelentkezés, kommentelés és a hírek CRUD műveletei. Nem funkcionális követelmény az átlátható, könnyen kezelhető felhasználói felület, valamint a reszponzív dizájn.
+A rendszer funkcionális követelményei közé tartozik a regisztráció, bejelentkezés, kommentelés és a hírek CRUD műveletei. Nem funkcionális követelmény az átlátható, könnyen kezelhető felhasználói felület, valamint a reszponzív dizájn. A felület minden modern eszközről és böngészőről elérhető lesz. A rendszer szintén támogatja a különböző szerepkörök jogosultságainak kezelését.
