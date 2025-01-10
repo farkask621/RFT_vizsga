@@ -27,4 +27,4 @@ A rendszer működésének validálásához számos tesztesetet hozunk létre. T
 A program telepítése egyszerű lépésekben történik. Elsőként telepíteni kell a Python 3-as verzióját, amely letölthető a hivatalos weboldalról. Ezután a forráskódot le kell tölteni a projekt mappájába. A futtatáshoz nyissa meg a terminált vagy a parancssort, navigáljon a mappába, majd adja ki a python program_neve.py parancsot. Windows esetén használhatja a python vagy py parancsot, míg Linux alatt a python3 a javasolt. Telepítés során ellenőrizze, hogy a szükséges könyvtárak, például a tkinter, már elérhetők-e a Python környezetében.
 
 ## 10. Karbantartási terv
-A karbantartás során a beérkező felhasználói visszajelzések alapján frissítjük a programot.
+A karbantartás során a beérkező felhasználói visszajelzések alapján frissítjük a programot. A hibajavítások és új funkciók bevezetése mellett havi jelentéseket készítünk a felhasználói tapasztalatokról.
