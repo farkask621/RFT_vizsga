@@ -42,3 +42,5 @@ Követelmény	Funkció
 K1	Szintválasztás
 K2	Szópárok véletlenszerű generálása
 K3	Felhasználói párosítás
+K4	Kiértékelés és eredmények
+K5	Motivációs visszajelzés
