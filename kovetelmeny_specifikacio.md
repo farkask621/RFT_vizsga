@@ -18,6 +18,15 @@ Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, am
    	 A felhasználó kiválasztja a kívánt nehézségi szintet.
    	 Az alkalmazás véletlenszerűen kiválaszt 7 magyar-angol szópárt a szintnek megfelelő szókészletből.
 	 4.2. Párosítási Feladat
-     A felhasználó az angol szavakat a megfelelő magyar szóval párosítja lenyíló menük segítségével.
+        A felhasználó az angol szavakat a megfelelő magyar szóval párosítja lenyíló menük segítségével.
 	 4.3. Eredmények Kiértékelése
    	 Az alkalmazás kiértékeli a helyes és helytelen válaszokat, majd megjeleníti az eredményeket és motivációs üzeneteket.
+
+## 5. Igényelt üzleti folyamatok modellje
+ 	5.1. Szópárok Generálása
+   	 Felelős: Az alkalmazás.
+   	 Folyamat: Az alkalmazás a választott nehézségi szint alapján véletlenszerűen generál 7 magyar-angol szópárt, és az angol szavakat 	 megkeveri.
+	 5.2. Párosítási Feladat
+   	 Felelős: Felhasználók.
+   	 Folyamat: A felhasználók lenyíló menükből kiválasztják az angol szavakat, amelyeket a magyar szavakhoz társítanak.
+
