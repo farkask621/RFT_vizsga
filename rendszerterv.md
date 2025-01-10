@@ -1,3 +1,6 @@
 # Rendszerterv
 ## 1. A rendszer célja
 A rendszer célja egy modern, felhasználóbarát platform biztosítása, amely lehetővé teszi a hírek gyors és pontos elérését bármilyen eszközről és böngészőről. A hírek típusok szerint csoportosítva érhetők el, biztosítva a könnyű kereshetőséget. Az adminisztrátorok képesek híreket hozzáadni, módosítani és törölni, míg a felhasználók regisztráció és bejelentkezés után kommenteket fűzhetnek a hírekhez. A cél egy dinamikus, reszponzív webalkalmazás létrehozása, amely megfelel a modern webes elvárásoknak.
+
+## 2. Projektterv
+A projekt során Scrum keretrendszerben dolgozunk. A Scrum master koordinálja a csapat munkáját, míg a Product Owner biztosítja a felhasználói igények megfelelő érvényesítését. A fejlesztők frontend, backend, és tesztelési feladatokat végeznek. Az ütemterv szerint az első szakaszban elkészülnek a specifikációk és a prototípus, majd következik az alapfunkciók fejlesztése, végül a tesztelés. A projekt három mérföldköve: a tervezési dokumentációk átadása, a prototípus bemutatása, majd a kész rendszer leszállítása.
