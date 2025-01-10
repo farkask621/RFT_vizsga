@@ -42,4 +42,6 @@ Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, am
 ## 6. Fogalomtár
 	Szópár: Egy magyar szó és annak angol megfelelője, amelyet a felhasználó párosít a játék során.
 	Reszponzív felület: A játék kezelőfelülete minden eszközön alkalmazkodik a képernyő méretéhez, így mobilon, tableten és PC-n is 	jól működik.
+    Motivációs üzenet: Teljesítményalapú visszacsatolás, amely dicsérettel vagy bátorítással ösztönzi a felhasználót a további 	gyakorlásra.
+	Nehézségi szint: A szavak komplexitása szerint kategorizált szintek (könnyű, közepes, nehéz), amelyek lehetővé teszik a felhasználók számára, hogy képességeikhez mérten gyakoroljanak.
 
