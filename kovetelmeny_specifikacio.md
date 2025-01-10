@@ -9,3 +9,6 @@ Jelenleg kevés olyan játékos alkalmazás létezik, amely magyar-angol szópá
 Az alkalmazás célja egy szórakoztató, de hatékony eszköz létrehozása, amely támogatja a nyelvtanulást az alábbi funkciókkal:
 - Könnyen érthető és reszponzív kezelőfelület.
 - Különböző nehézségi szintek: "könnyű", "közepes" és "nehéz".
+- Véletlenszerűen generált magyar-angol szópárok.
+- Az eredmények kiértékelése és motivációs üzenetek a teljesítmény alapján.
+- Egy egyszerű, intuitív játékélmény, amely minden korosztály számára élvezetes.
